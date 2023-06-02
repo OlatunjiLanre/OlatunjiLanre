@@ -22,7 +22,7 @@ https://github.com/OlatunjiLanre/Online-Retail-Store-Analysis-/tree/main
 <details>
  <summary>Click to view</summary>
  <br>
---
+https://github.com/OlatunjiLanre/Cleaning-Badly-Structured-Sales-Data-in-Power-Query/blob/main/Data%20Cleaning%201.pdf
 </details>
 
 

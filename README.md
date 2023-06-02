@@ -23,7 +23,7 @@ Excel
  
 ### Business Development Analyst @ Skyway Aviation handling company Plc (SAHCO) Feb 2023 - Present 
 <details>
- <summary>Click to view</summary>
+ <summary>Click to view Experience</summary>
  <br>
 -Carried out Performance Indicator Analysis and implementation of new business processes for business growth and customer satisfaction.  
 -Carried out a comparative analysis of Expenses vs Revenue within a period of 6years by spotting trends and patterns and conducting root-cause analysis on expenses       loop-holes to reduce cost and improve revenue over time.  
@@ -37,7 +37,7 @@ Excel
 
 ### Business Intelligence Analyst @ Well Energy Limited  Jan 2020 - Feb 2023 · 3 yrs 2 mos
 <details>
- <summary>Click to view</summary>
+ <summary>Click to view Experience</summary>
  <br>
 -Contributed as a Business Intelligence Analyst to detect and solve business trends and patterns which resulted into 40% increase in sales and improved the organization’s savings and profit margin by 22.8%.   
 -Also, contributed as a BI Analyst for new campaigns by analyzing customer behaviors, segmenting customers based on Recency, Frequency and Monetary and also to show customers Retention and Attrition rate. This helped the organization to be able to detect and target customers based on different campaigns.  

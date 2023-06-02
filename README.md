@@ -19,6 +19,8 @@ What drives me most as a Business Intelligence/Data Analyst is my keen desire to
  
 -Building interactive visualizations and automated detailed Dashboards for stakeholders on a weekly and monthly basis. 
 
+##### Tech Stack: Power BI, Microsoft Excel, Power Query, DAX 
+
 
 ### Business Intelligence Analyst @ Well Energy Limited  Jan 2020 - Feb 2023 · 3 yrs 2 mos
 
@@ -37,6 +39,8 @@ What drives me most as a Business Intelligence/Data Analyst is my keen desire to
 -Key contribution in carrying out Data Quality Assessment. 
 
 -Implemented Job automation which increases job effectiveness and efficiency by 20%. 
+
+##### Power Bi, MySQL, MS SQL, Power Query, Dax, Power Pivot, Microsoft Excel, Power Point 
 
 
 

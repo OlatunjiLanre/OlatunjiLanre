@@ -32,7 +32,14 @@ https://github.com/OlatunjiLanre/Cleaning-Badly-Structured-Sales-Data-in-Power-Q
 -Build an interactive & Automated Data Visualizations and Dashboards for stakeholders and top managements on a Weekly & Monthly basis paying detailed attention to KPI’s.  
 -Key contribution in carrying out Data Quality Assessment.  
 -Implemented Job automation which increases job effectiveness and efficiency by 20%.  
-##### Tech Stack: Power Bi, MySQL, MS SQL, Power Query, Dax, Power Pivot, Microsoft Excel, Power Point  
+##### Tech Stack: Power Bi, MySQL, MS SQL, Power Query, Dax, Power Pivot, Microsoft Excel, Power Point   
+
+
+<details open>
+<summary>I automatically open</summary>
+<br>
+Waaa, you see me. I thought I would be hidden ;p .
+</details>
 
 
 

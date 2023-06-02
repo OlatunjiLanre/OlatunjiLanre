@@ -17,7 +17,7 @@ What drives me most as a Business Intelligence/Data Analyst is my keen desire to
 
 -Carried out a comparative analysis of Expenses vs Revenue within a period of 6years by spotting trends and patterns and conducting root-cause analysis on expenses       loop-holes to reduce cost and improve revenue over time. 
  
--Building interactive visualizations and automated detailed Dashboards for stakeholders on a weekly and monthly basis. 
+-Building interactive visualizations and automated detailed Dashboards for stakeholders on a weekly and monthly basis.  
 
 ##### Tech Stack: Power BI, Microsoft Excel, Power Query, DAX 
 
@@ -40,7 +40,7 @@ What drives me most as a Business Intelligence/Data Analyst is my keen desire to
 
 -Implemented Job automation which increases job effectiveness and efficiency by 20%. 
 
-##### Power Bi, MySQL, MS SQL, Power Query, Dax, Power Pivot, Microsoft Excel, Power Point 
+##### Tech Stack: Power Bi, MySQL, MS SQL, Power Query, Dax, Power Pivot, Microsoft Excel, Power Point 
 
 
 

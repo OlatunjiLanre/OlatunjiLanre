@@ -7,6 +7,7 @@ I'm Olanrewaju, A Business Intelligence Analyst/Data Analyst with background in 
 I have demonstrated an excellent communication skill with a problem-solving ability.
 What drives me most as a Business Intelligence/Data Analyst is my keen desire to making businesses grow and flourish.
 
+
 Skills: POWER BI / MYSQL / MSSQL / EXCEL / SPSS
 
 

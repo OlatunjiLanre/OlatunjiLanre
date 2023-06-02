@@ -39,7 +39,7 @@ What drives me most as a Business Intelligence/Data Analyst is my keen desire to
 
 ## Skills and Experience: 
  
-## Business Development Analyst @ Skyway Aviation handling company Plc (SAHCO) Feb 2023 - Present 
+#### Business Development Analyst @ Skyway Aviation handling company Plc (SAHCO) Feb 2023 - Present 
 <details>
  <summary>Click to view Experience</summary>
  <br>
@@ -53,7 +53,7 @@ What drives me most as a Business Intelligence/Data Analyst is my keen desire to
  
 
 
-## Business Intelligence Analyst @ Well Energy Limited  Jan 2020 - Feb 2023 · 3 yrs 2 mos
+#### Business Intelligence Analyst @ Well Energy Limited  Jan 2020 - Feb 2023 · 3 yrs 2 mos
 <details>
  <summary>Click to view Experience</summary>
  <br>

@@ -32,7 +32,7 @@ https://github.com/OlatunjiLanre/Cleaning-Badly-Structured-Sales-Data-in-Power-Q
 <details>
  <summary>Click to view</summary>
  <br>
---
+(https://github.com/OlatunjiLanre/Exploratory-Analysis-of-Customer-Segmentation-RFM-Analysis-/tree/main)
 </details>
 
  

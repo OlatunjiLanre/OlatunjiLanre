@@ -10,8 +10,9 @@ I have demonstrated an excellent communication skill with a problem-solving abil
 What drives me most as a Business Intelligence/Data Analyst is my keen desire to making businesses grow and flourish.
 
 ## Projects 
+Excel
 <details open>
- <summary>Excel Projects</summary>
+ <summary>Click to view</summary>
  <br>
 https://github.com/OlatunjiLanre/Cleaning-Badly-Structured-Sales-Data-in-Power-Query/tree/main ;p .
 </details>

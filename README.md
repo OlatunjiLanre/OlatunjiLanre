@@ -26,12 +26,17 @@ What drives me most as a Business Intelligence/Data Analyst is my keen desire to
 
 -Also, contributed as a BI Analyst for new campaigns by analyzing customer behaviors, segmenting customers based on Recency, Frequency and Monetary and also to show customers Retention and Attrition rate. This helped the organization to be able to detect and target customers based on different campaigns. 
  
--Implemented Revenue & Product Analysis.
--Implemented Customer Based COHORT Analysis (Retention & Attrition).
--Implemented RFM Analysis (Customer Segmentation).
--Build an interactive & Automated Data Visualizations and Dashboards for stakeholders and top managements on a Weekly & Monthly basis paying detailed attention to KPI’s.
--Key contribution in carrying out Data Quality Assessment.
--Implemented Job automation which increases job effectiveness and efficiency by 20%.
+-Implemented Revenue & Product Analysis. 
+
+-Implemented Customer Based COHORT Analysis (Retention & Attrition). 
+
+-Implemented RFM Analysis (Customer Segmentation). 
+
+-Build an interactive & Automated Data Visualizations and Dashboards for stakeholders and top managements on a Weekly & Monthly basis paying detailed attention to KPI’s. 
+
+-Key contribution in carrying out Data Quality Assessment. 
+
+-Implemented Job automation which increases job effectiveness and efficiency by 20%. 
 
 
 

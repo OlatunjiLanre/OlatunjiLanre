@@ -5,3 +5,4 @@ What drives me most as a Business Intelligence/Data Analyst is my keen desire to
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlatunjiLanre&hide=contribs,prs)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlatunjiLanre&show_icons=true&theme=radical)

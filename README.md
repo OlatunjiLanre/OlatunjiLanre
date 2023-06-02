@@ -36,7 +36,9 @@ https://github.com/OlatunjiLanre/Cleaning-Badly-Structured-Sales-Data-in-Power-Q
 
 
 ### Business Intelligence Analyst @ Well Energy Limited  Jan 2020 - Feb 2023 · 3 yrs 2 mos
-
+<details>
+ <summary>Click to view</summary>
+ <br>
 -Contributed as a Business Intelligence Analyst to detect and solve business trends and patterns which resulted into 40% increase in sales and improved the organization’s savings and profit margin by 22.8%.   
 -Also, contributed as a BI Analyst for new campaigns by analyzing customer behaviors, segmenting customers based on Recency, Frequency and Monetary and also to show customers Retention and Attrition rate. This helped the organization to be able to detect and target customers based on different campaigns.  
 -Implemented Revenue & Product Analysis.  
@@ -46,6 +48,8 @@ https://github.com/OlatunjiLanre/Cleaning-Badly-Structured-Sales-Data-in-Power-Q
 -Key contribution in carrying out Data Quality Assessment.  
 -Implemented Job automation which increases job effectiveness and efficiency by 20%.  
 ##### Tech Stack: Power Bi, MySQL, MS SQL, Power Query, Dax, Power Pivot, Microsoft Excel, Power Point   
+ 
+ </details> 
 
 
 

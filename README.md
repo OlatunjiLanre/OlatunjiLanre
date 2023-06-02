@@ -11,10 +11,10 @@ What drives me most as a Business Intelligence/Data Analyst is my keen desire to
 
 ### Skills and Experience: 
  POWER BI  
- MYSQL
- MSSQL 
- EXCEL 
- SPSS
+ MYSQL 
+ MSSQL  
+ EXCEL  
+ SPSS 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlatunjiLanre&show_icons=true&theme=radical)

@@ -1,5 +1,7 @@
 
-(https://github.com/OlatunjiLanre/OlatunjiLanre/blob/main/BANNER.jpeg)
+![I am GitHub Readme Generator's creator](https://github.com/OlatunjiLanre/OlatunjiLanre/blob/main/BANNER.jpeg)
+ 
+
 ### Hi there 👋, I'm Olatunji Olanrewaju
 
 #### Business Intelligence Analyst / Data Analyst 

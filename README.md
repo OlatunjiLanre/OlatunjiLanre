@@ -14,7 +14,7 @@ Excel
 <details>
  <summary>Click to view</summary>
  <br>
-https://github.com/OlatunjiLanre/Cleaning-Badly-Structured-Sales-Data-in-Power-Query/tree/main ;p .
+--
 </details>
  
 

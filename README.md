@@ -27,9 +27,12 @@ https://github.com/OlatunjiLanre/Cleaning-Badly-Structured-Sales-Data-in-Power-Q
  <br>
 -Carried out Performance Indicator Analysis and implementation of new business processes for business growth and customer satisfaction.  
 -Carried out a comparative analysis of Expenses vs Revenue within a period of 6years by spotting trends and patterns and conducting root-cause analysis on expenses       loop-holes to reduce cost and improve revenue over time.  
--Building interactive visualizations and automated detailed Dashboards for stakeholders on a weekly and monthly basis.   
+-Building interactive visualizations and automated detailed Dashboards for stakeholders on a weekly and monthly basis. 
+ 
 ##### Tech Stack: Power BI, Microsoft Excel, Power Query, DAX 
- </details>
+
+</details> 
+ 
 
 
 ### Business Intelligence Analyst @ Well Energy Limited  Jan 2020 - Feb 2023 · 3 yrs 2 mos

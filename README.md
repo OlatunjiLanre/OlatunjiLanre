@@ -20,7 +20,7 @@ Click to view
  
 *  [Financial Analysis & Reporting](https://app.powerbi.com/view?r=eyJrIjoiNTdjYzk5NWItZDljNy00ZjQ2LTljNWYtZWNlZDRjMWM0ZmQwIiwidCI6IjQ3NjM3OGNhLTMxYzAtNDgyNS1hZjJlLTZhNWNhNDBmMmM5YiJ9&pageName=ReportSection&disablecdnExpiration=1720672678)
 *  [Retail Supply Chain & Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiOGFhNDFlMzMtNmRiZC00ODI1LWE3ZDktNTc4YTgxODM2Nzg5IiwidCI6IjQ3NjM3OGNhLTMxYzAtNDgyNS1hZjJlLTZhNWNhNDBmMmM5YiJ9&pageName=6dd51d715ff7638d7bb7)
-*  [A/B Testing in Power bi]()
+*  [A/B Testing in Power bi](https://app.powerbi.com/view?r=eyJrIjoiY2I5NzNmNTctODFmMy00MWJhLTkxYjctZDk2NWEzY2NhZjAxIiwidCI6IjQ3NjM3OGNhLTMxYzAtNDgyNS1hZjJlLTZhNWNhNDBmMmM5YiJ9)
 *  [Dynamic Pareto Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDdjZmRlN2YtYjhiZC00MzMxLTkwOTAtZjIwMDI3ZDYzMGZmIiwidCI6IjQ3NjM3OGNhLTMxYzAtNDgyNS1hZjJlLTZhNWNhNDBmMmM5YiJ9&pageName=3a54fee6251ca754532a)
   
 </details>

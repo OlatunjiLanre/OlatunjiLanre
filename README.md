@@ -55,44 +55,70 @@ Click to view
 
 
 ## Skills and Experience: 
- 
-#### Business Development Analyst @ Skyway Aviation handling company Plc (SAHCO) Feb 2023 - Present 
+
+#### Business Transformation Analytics Lead @ Seven Up Bottling Company Sept 2023 - Present 
+#### Industry: FMCG
+#### Employment type: Permanent 
 <details>
  <summary>Click to view Experience</summary>
  <br>
--Carried out Performance Indicator Analysis and implementation of new business processes for business growth and customer satisfaction.
- 
--Carried out a comparative analysis of Expenses vs Revenue within a period of 6years by spotting trends and patterns and conducting root-cause analysis on expenses       loop-holes to reduce cost and improve revenue over time. 
- 
--Building interactive visualizations and automated detailed Dashboards for stakeholders on a weekly and monthly basis. 
- 
-##### Tech Stack: Power BI, Microsoft Excel, Power Query, DAX 
+
+-Leading the transformation analytics office in partnership with the Mckinsey consultants, analysing key organization changes and strategic initiative at different stages of the transformation.
+
+-Performed statistical model analysis on sales and production data achieving a 20% improvement in forecast accuracy. The predicted trends and patterns provided actionable insights for sales, production, and supply chain team, contributing to a 15% increase in operational efficiency.
+
+-Developed a Power bi exploratory analysis of customer retention and attrition rate, resulting in a 15% increase in customer retention rate and providing insights to reduce customer churn.
+
+-Collaborated with Sales & Marketing team to build an exploratory analysis of customer segmentation model that improved Route-To-Market (RTM) strategies for a digital retail project, leading to a notable 27% month-over-month reduction in marketing campaign costs.
+
+-Conducted A/B testing for a digital retail project with Power bi, successfully optimizing strategies and enhancing con-version rates by 15%. Designed and executed experiments to evaluate diverse approaches, delivering data-driven insights pivotal for strategic decision-making.
+
+-Developed and delivered comprehensive monthly, weekly, and ad-hoc reports for senior management and stakeholders, ensuring timely and insightful information for strategic decision-making.
+
+-Collaborated with the data engineering and BI team to automate data extraction and transformation processes while focusing on data validation and data accuracy.
+
+
 
 </details> 
  
-
-
-#### Business Intelligence Analyst @ Well Energy Limited  Jan 2020 - Feb 2023 · 3 yrs 2 mos
+#### Business Development Analyst @ Skyway Aviation handling company Plc (SAHCO) Feb 2023 - Sept 2023
+#### Employment type: Contract
 <details>
  <summary>Click to view Experience</summary>
  <br>
--Contributed as a Business Intelligence Analyst to detect and solve business trends and patterns which resulted into 40% increase in sales and improved the organization’s savings and profit margin by 22.8%.   
+
+-Implemented advance analytics to optimize S&OP processes. This led to reduction in planning cycle time of 40% and also increase inventory management.
+
+-Developed an analysis to determine the Overall Equipment Efficiency (OEE) rate on all offshore and onshore equip-ment. This led to reduction in maintenance cost of 20million, minimize downtime and increased OEE rate of about 50%.
+
+-Built a time intelligence interactive dashboard for stakeholders analyzing production data such as FTHP, flow rate, gas rate, basic water and sediments, static pressure and other wellhead data. This helped the management to make insightful decisions.
+
+-Collaborated with the business development team to conduct comprehensive market research, developed robust B2B business plans, spot trends and patterns and identify growth opportunities in the oil and gas market.
+
+-Actioned strategic Health and Safety plans across all platforms (offshore and onshore) and tracked various HSE KPI’s which resulted into decrease in incident and accident rate of employees.
+
+-Key contribution in carrying out periodic Data Quality Assessment (DAQ).
+
+</details> 
+
  
-Also, contributed as a BI Analyst for new campaigns by analyzing customer behaviors, segmenting customers based on Recency, Frequency and Monetary and also to show customers Retention and Attrition rate. This helped the organization to be able to detect and target customers based on different campaigns. 
- 
--Implemented Revenue & Product Analysis. 
- 
--Implemented Customer Based COHORT Analysis (Retention & Attrition). 
- 
--Implemented RFM Analysis (Customer Segmentation). 
- 
--Build an interactive & Automated Data Visualizations and Dashboards for stakeholders and top managements on a Weekly & Monthly basis paying detailed attention to KPI’s. 
- 
--Key contribution in carrying out Data Quality Assessment. 
- 
--Implemented Job automation which increases job effectiveness and efficiency by 20%. 
- 
-##### Tech Stack: Power Bi, MySQL, MS SQL, Power Query, Dax, Power Pivot, Microsoft Excel, Power Point   
- 
+#### Business Intelligence Analyst @ Well Energy Limited  Jan 2020 - Feb 2023 
+#### Employment type: Permanent 
+<details>
+ <summary>Click to view Experience</summary>
+ <br>
+
+-Implemented advance analytics to optimize S&OP processes. This led to reduction in planning cycle time of 40% and also increase inventory management.
+
+-Developed an analysis to determine the Overall Equipment Efficiency (OEE) rate on all offshore and onshore equip-ment. This led to reduction in maintenance cost of 20million, minimize downtime and increased OEE rate of about 50%.
+
+-Built a time intelligence interactive dashboard for stakeholders analyzing production data such as FTHP, flow rate, gas rate, basic water and sediments, static pressure and other wellhead data. This helped the management to make insightful decisions.
+
+-Collaborated with the business development team to conduct comprehensive market research, developed robust B2B business plans, spot trends and patterns and identify growth opportunities in the oil and gas market.
+
+-Actioned strategic Health and Safety plans across all platforms (offshore and onshore) and tracked various HSE KPI’s which resulted into decrease in incident and accident rate of employees.
+
+-Key contribution in carrying out periodic Data Quality Assessment (DAQ).
+
  </details> 
 

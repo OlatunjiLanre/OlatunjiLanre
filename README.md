@@ -81,7 +81,7 @@ Click to view
 
 </details> 
  
-#### Business Development Analyst @ Skyway Aviation handling company Plc (SAHCO) Feb 2023 - Sept 2023
+#### Data & Business Intelligence Analyst @ Skyway Aviation handling company Plc (SAHCO) Feb 2023 - Sept 2023
 #### Employment type: Contract
 <details>
  <summary>Click to view Experience</summary>

@@ -10,29 +10,45 @@ I have demonstrated an excellent communication skill with a problem-solving abil
 What drives me most as a Business Intelligence/Data Analyst is my keen desire to making businesses grow and flourish.
 
 ## Projects 
-#### Online Retail Store Dashboard
+
+### Power Bi Dashboards 
+
 <details>
- <summary>Click to view</summary>
- <br>
-https://github.com/OlatunjiLanre/Online-Retail-Store-Analysis-/tree/main
+<summary>
+Click to view
+</summary>
  
+*  [Financial Analysis & Reporting](https://app.powerbi.com/view?r=eyJrIjoiNTdjYzk5NWItZDljNy00ZjQ2LTljNWYtZWNlZDRjMWM0ZmQwIiwidCI6IjQ3NjM3OGNhLTMxYzAtNDgyNS1hZjJlLTZhNWNhNDBmMmM5YiJ9&pageName=ReportSection&disablecdnExpiration=1720672678)
+*  [Retail Supply Chain & Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiOGFhNDFlMzMtNmRiZC00ODI1LWE3ZDktNTc4YTgxODM2Nzg5IiwidCI6IjQ3NjM3OGNhLTMxYzAtNDgyNS1hZjJlLTZhNWNhNDBmMmM5YiJ9&pageName=6dd51d715ff7638d7bb7)
+*  [A/B Testing in Power bi]()
+*  [What-if- Scenario Analysis]()
+*  [Dynamic Pareto Analysis]()
+  
 </details>
 
 
-#### Data Cleaning & Transformstion (Power Query)
+### SQL Project
+
 <details>
+ 
  <summary>Click to view</summary>
  <br>
-https://github.com/OlatunjiLanre/Cleaning-Badly-Structured-Sales-Data-in-Power-Query/blob/main/Data%20Cleaning%201.pdf
+
+*  [Customer Segmentation Analysis](https://github.com/OlatunjiLanre/Exploratory-Analysis-of-Customer-Segmentation-RFM-Analysis-/tree/main)
+
 </details>
 
+### Excel & Power Query 
 
-
-#### SQL Project
 <details>
- <summary>Click to view</summary>
- <br>
-(https://github.com/OlatunjiLanre/Exploratory-Analysis-of-Customer-Segmentation-RFM-Analysis-/tree/main)
+<summary>
+Click to view
+</summary>
+ 
+*  [Online Retail Store Analysis](https://github.com/OlatunjiLanre/Online-Retail-Store-Analysis-/tree/main)
+*  [Data Cleaning & Automation in Power Query](https://github.com/OlatunjiLanre/Cleaning-Badly-Structured-Sales-Data-in-Power-Query/blob/main/Data%20Cleaning%201.pdf)
+
+  
 </details>
 
  
